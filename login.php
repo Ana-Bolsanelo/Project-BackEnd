@@ -1,7 +1,7 @@
 <form action="processa_login.php" method="POST">
-    <label>Email:</label>
+    <label> E-mail: </label>
     <input type="email" name="email" required>
-    <label>Senha:</label>
+    <label> Senha: </label>
     <input type="password" name="senha" required>
-    <button type="submit">Entrar</button>
+    <button type="submit"> Entrar </button>
 </form>
